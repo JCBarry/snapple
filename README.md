@@ -1,5 +1,5 @@
 # Snapple [![Build Status](https://travis-ci.org/JCBarry/snapple.svg)](https://travis-ci.org/JCBarry/snapple) [![Code Climate](https://codeclimate.com/github/JCBarry/snapple/badges/gpa.svg)](https://codeclimate.com/github/JCBarry/snapple) [![Test Coverage](https://codeclimate.com/github/JCBarry/snapple/badges/coverage.svg)](https://codeclimate.com/github/JCBarry/snapple/coverage)
-A gem to provide one the same nuggets of wisdom attained by religiously drinking Snapple.
+A gem to provide one with the same nuggets of wisdom attained by religiously drinking Snapple.
 
 
 ## Installation
@@ -34,9 +34,12 @@ Snapple.fact!
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jcbarry/snapple. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jcbarry/snapple. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](CODE_OF_CONDUCT.md) code of conduct.
 
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+## Trademarks
+SNAPPLE, REAL FACTS, and MADE FROM THE BEST STUFF ON EARTH are registered trademarks of Snapple Beverage Corp.
