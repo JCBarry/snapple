@@ -1,4 +1,4 @@
-# Snapple
+# Snapple [![Build Status](https://travis-ci.org/JCBarry/snapple.svg)](https://travis-ci.org/JCBarry/snapple) [![Code Climate](https://codeclimate.com/github/JCBarry/snapple/badges/gpa.svg)](https://codeclimate.com/github/JCBarry/snapple) [![Test Coverage](https://codeclimate.com/github/JCBarry/snapple/badges/coverage.svg)](https://codeclimate.com/github/JCBarry/snapple/coverage)
 A gem to provide one the same nuggets of wisdom attained by religiously drinking Snapple.
 
 
