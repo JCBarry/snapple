@@ -3,6 +3,8 @@ require_relative 'snapple/fact'
 require_relative 'snapple/parser'
 
 module Snapple
+  attr_reader :facts
+
   def self.fact
     facts.sample
   end
