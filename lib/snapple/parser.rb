@@ -25,7 +25,7 @@ module Snapple
     end
 
     def load_file
-      @file ||= File.read(FACT_FILENAME)
+      @file ||= File.read(File.expand_path("../../../#{FACT_FILENAME}", __FILE__))
     end
   end
 end
