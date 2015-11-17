@@ -32,6 +32,15 @@ Snapple.fact!
 => "Beavers were once the size of bears."
 ```
 
+
+## Command Line Interface
+
+Open a Snapple from your console:
+```
+$ snapple
+Texas is the only state that permits residents to cast absentee ballots from space.
+```
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/jcbarry/snapple. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](CODE_OF_CONDUCT.md) code of conduct.
